@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm OBULIRAJ A N S</h1>
 <h3 align="center">A passionate Embedded systems developer from India</h3>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ad292b5d-b4c7-409c-a540-638628b4f8f0" alt="OBULIRAJ A N S">
-</p>
+
 
 
 
