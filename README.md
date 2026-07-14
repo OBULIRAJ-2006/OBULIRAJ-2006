@@ -4,12 +4,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=obuliraj-2006&row=1&column=6" alt="obuliraj-2006" />
-  </a>
-</p>
-
 
 - 💬 Ask me about **Anything!!!**
 
